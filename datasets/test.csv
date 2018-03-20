@@ -1,0 +1,10 @@
+Event_id,Helicopter_Type,Location,Price_of_Part,Part_Type,Hrs_to_Repair,Helicopter,Months
+7,2,Surrey,20,MainRotorDrive,1.9,S-92,0
+13,2,Helsinki,44,MainRotorDrive,4.4,S-92,0
+15,2,Surrey,45,Avionics,4.5,S-92,1.442308
+16,2,Helsinki,43,Avionics,4.3,S-92,3.096154
+23,2,Taiwan,42,TurbineEngine,4.2,S-92,0
+24,2,Tokyo,39,MainRotorDrive,3.9,S-92,10.019231
+30,2,Tokyo,23,MainRotorDrive,2.3,S-92,0
+30,3,Tokyo,23,MainRotorDrive,2.3,333,0
+33,2,Singapore,24,MainRotorDrive,2.4,S-92,0
